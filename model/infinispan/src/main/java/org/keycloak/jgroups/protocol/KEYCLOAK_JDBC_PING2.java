@@ -18,7 +18,6 @@
 package org.keycloak.jgroups.protocol;
 
 import java.sql.Connection;
-import java.sql.SQLException;
 import java.util.Objects;
 
 import org.jgroups.protocols.JDBC_PING2;
